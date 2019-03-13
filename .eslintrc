@@ -1,0 +1,14 @@
+{
+    "extends": ["eslint:recommended"],
+    "parserOptions": {
+        "ecmaVersion": 2017
+    },
+    "rules": {
+        "indent": ["off", 4]
+    },
+    "env": {
+        "es6": true,
+        "browser": true,
+        "node": true
+    }
+}

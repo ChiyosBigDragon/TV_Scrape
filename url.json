@@ -1,0 +1,12 @@
+{
+    "list": [
+        {
+            "id": "地上波+金属バット",
+            "url": "https://tv.so-net.ne.jp/schedulesBySearch.action?condition.genres%5B0%5D.parentId=-1&condition.genres%5B0%5D.childId=-1&stationPlatformId=1&condition.keyword=%E9%87%91%E5%B1%9E%E3%83%90%E3%83%83%E3%83%88&submit=%E6%A4%9C%E7%B4%A2&descriptive=true"
+        },
+        {
+            "id": "スカパー！+ゲームセンターCX",
+            "url": "https://tv.so-net.ne.jp/schedulesBySearch.action?stationPlatformId=5&condition.keyword=%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCCX&submit=%E6%A4%9C%E7%B4%A2&descriptive=true"
+        }
+    ]
+}
